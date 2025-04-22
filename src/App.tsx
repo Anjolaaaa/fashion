@@ -7,7 +7,7 @@ const products = [
   {
     id: 1,
     name: 'Pink Tulle Dream Gown',
-    price: '$899',
+    price: '£80',
     images: [
       'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572468/launch_auhf4l.jpg',
       'https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&q=80&w=720'
@@ -19,7 +19,7 @@ const products = [
   {
     id: 2,
     name: 'Brown Velvet Dress',
-    price: '$349',
+    price: '£170',
     images: [
       'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572496/IMG_3974_yoy5ri.jpg',
       'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572497/IMG_3976_amtbh2.jpg'
@@ -31,7 +31,7 @@ const products = [
   {
     id: 3,
     name: 'Gold Evening Gown',
-    price: '$599',
+    price: '£180',
     images: [
       'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572442/IMG_4173_jwr22o.jpg?auto=format&fit=crop&q=80&w=720',
       'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572516/IMG_4203_zotffp.jpg?auto=format&fit=crop&q=80&w=720'
