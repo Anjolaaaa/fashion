@@ -10,7 +10,6 @@ const products = [
     price: '£80',
     images: [
       'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572468/launch_auhf4l.jpg'
-      
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
     description: 'A stunning pink tulle gown with dramatic ruffles and elegant draping.',
