@@ -34,7 +34,8 @@ const products = [
     price: '£180',
     images: [
       'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572442/IMG_4173_jwr22o.jpg?auto=format&fit=crop&q=80&w=720',
-      'https://res.cloudinary.com/dennnhuvl/image/upload/v1744572516/IMG_4203_zotffp.jpg?auto=format&fit=crop&q=80&w=720'
+      'https://res.cloudinary.com/dqpfmefo8/image/upload/v1745323752/cream_back_bxqvld.jpg',
+      'https://res.cloudinary.com/dqpfmefo8/image/upload/v1745323747/cream_pose_m8ask4.jpg'
     ],
     instagram: 'https://www.instagram.com/saintsuzzysignature',
     description: 'Elegant evening gown with crystal embellishments.',
